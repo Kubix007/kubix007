@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">Help me fulfill my dreams and make me a web developer</h3>
 
 - 🔭 I’m currently working on [Hearthstone-Cards](https://github.com/Kubix007/hearthstone-cards)
 
