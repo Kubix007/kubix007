@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 
-- 🔭 I’m currently working on [Hearthstone-Cards](https://github.com/Kubix007/hearthstone-cards)
+- 🔭 I’m currently working on [django-react-chess](https://github.com/Kubix007/django-react-chess)
 
 - 📫 How to reach me **kuba.dolinski@hotmail.com**
 
